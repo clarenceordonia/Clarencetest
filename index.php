@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <html>
 <body bgcolor="black" text="white">
-	<p> ODD & EVEN </p>
+	<center> <font face="tahoma"> <p> ODD & EVEN </p>
 <script type="text/javascript">
 var num1=0;
 var num2=0;
