@@ -30,5 +30,6 @@ for (i=1;i<=y;i++)
 
 </script>
 <p> Copyright 2022-CLARENCE S. ORDONIA </p>
+</font></center>
 </body>
 </html>
