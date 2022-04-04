@@ -1,6 +1,6 @@
 <!DOCTYPE>
 <html>
-<body>
+<body bgcolor="black" text="white">
 	<p> ODD & EVEN </p>
 <script type="text/javascript">
 var num1=0;
