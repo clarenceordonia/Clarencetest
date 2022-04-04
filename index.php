@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <html>
 <body bgcolor="black" text="white">
-	<center> <font face="tahoma"> <p> College of Information Technology and Computer Science <br>DITCC3 – Advanced IT Systems Architecture<br>Determines the input number if  ODD / EVEN </p>
+	<center> <font face="tahoma"> <p> College of Information Technology and Computer Science <br>DITCC3 – Advanced IT Systems Architecture<br>Determines the input number if  ODD or EVEN </p>
 <script type="text/javascript">
 var num1=0;
 var num2=0;
